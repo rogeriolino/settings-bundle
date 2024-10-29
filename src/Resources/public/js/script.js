@@ -11,6 +11,7 @@
             unidade: (unidade || {}),
             impressao: impressao,
             usuarios: usuarios,
+            usuario: null,
             contadores: {},
             servicos: [],
             servicosSearch: '',
